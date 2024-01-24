@@ -36,7 +36,6 @@
     <h2><img src="https://i.postimg.cc/NF41GNm0/socials33.png"></h2>
     <li>𝗧𝘄𝗶𝘁𝘁𝗲𝗿 ~ <a href="https://twitter.com/_ShinyBread_" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="15px"></a></li>
     <li>𝗧𝘄𝗶𝘁𝗰𝗵 ~ <a href="https://www.twitch.tv/shinybre4d" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/2111/2111668.png" width="15px"></a></li>
-    <li>𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 ~ <a href="https://www.instagram.com/shiny_bread/" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/instagram-new-color-flat.png" width="15px"></a></li>
   </section>
   <div align="center">
     <h1>✨Thx for reading !!!✨</h1>
